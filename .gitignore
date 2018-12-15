@@ -1,7 +1,0 @@
-
-src/Modelo/obj/Debug/*
-src/PalcoNet/bin/Debug/*
-
-src/PalcoNet/.vs/*
-src/PalcoNet/PalcoNet.csproj
-src/PalcoNet/obj

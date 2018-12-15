@@ -1,0 +1,39 @@
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.dll
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.dll
+D:\DATOS\2018\MELI\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.pdb
+C:\Users\David\Documents\gestion\2doCUATRIMESTRE2018\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.dll
+C:\Users\David\Documents\gestion\2doCUATRIMESTRE2018\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.pdb
+C:\Users\David\Documents\gestion\2doCUATRIMESTRE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\gestion\2doCUATRIMESTRE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.dll
+C:\Users\David\Documents\gestion\2doCUATRIMESTRE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.pdb
+C:\Users\David\Documents\gestion\1erCUATRIMESTE2018\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.dll
+C:\Users\David\Documents\gestion\1erCUATRIMESTE2018\gdd2c\Aplicacion Desktop\Modelo\bin\Debug\Modelo.pdb
+C:\Users\David\Documents\gestion\1erCUATRIMESTE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\gestion\1erCUATRIMESTE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.dll
+C:\Users\David\Documents\gestion\1erCUATRIMESTE2018\gdd2c\Aplicacion Desktop\Modelo\obj\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\bin\Debug\Modelo.dll
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\bin\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\obj\Debug\Modelo.dll
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\obj\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\RepoPruebas\Aplicacion Desktop\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\David\Documents\ENTREGA 09-12-2018\ENTREGA 09-12-2018\src\Modelo\bin\Debug\Modelo.dll
+C:\Users\David\Documents\ENTREGA 09-12-2018\ENTREGA 09-12-2018\src\Modelo\bin\Debug\Modelo.pdb
+C:\Users\David\Documents\ENTREGA 09-12-2018\ENTREGA 09-12-2018\src\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\ENTREGA 09-12-2018\ENTREGA 09-12-2018\src\Modelo\obj\Debug\Modelo.dll
+C:\Users\David\Documents\ENTREGA 09-12-2018\ENTREGA 09-12-2018\src\Modelo\obj\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\bin\Debug\Modelo.dll
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\bin\Debug\Modelo.pdb
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\obj\Debug\Modelo.dll
+D:\DATOS\2018\MELI\RepoPruebas\src\Modelo\obj\Debug\Modelo.pdb
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\bin\Debug\Modelo.dll
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\bin\Debug\Modelo.pdb
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\obj\Debug\Modelo.dll
+C:\Users\javie\Desktop\ENTREGA FINAL- MELISA\RepoPruebas\src\Modelo\obj\Debug\Modelo.pdb
